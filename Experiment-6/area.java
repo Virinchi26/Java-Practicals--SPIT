@@ -4,7 +4,7 @@ import java.lang.Math;
 class Shape {
     Scanner scan = new Scanner(System.in);
     double area, side, perimeter, radius, s1, s2, s3, a;
-
+    void default
     void getArea() {
         area = 0;
     }
